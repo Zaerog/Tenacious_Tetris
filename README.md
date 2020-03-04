@@ -2,7 +2,7 @@
 C++ OpenGL Tetris
 
 
-A simple Tetris game utilizes OpenGL to draw the game.
+A simple Tetris game made in C++ in Visual Studio 2019 utilizing OpenGL.
 All done in a single C++ Vector. 
 
 Controls:
